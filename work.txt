@@ -1,0 +1,3 @@
+18 feb 2024
+added blog app working 
+the styleing is needed to work on 

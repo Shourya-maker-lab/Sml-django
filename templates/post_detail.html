@@ -1,0 +1,17 @@
+{% extends 'base.html' %} 
+{% block body %}
+
+<div class="container dark-mode ">
+  <div class="row ">
+    <div class="col-md-8 card mb-4  mt-3 left  top ">
+      <div class="card-body dark-mode ">
+        <h1 class="dark-mode" >{% block title %} {{ object.title }} {% endblock title %}</h1>
+        <p class=" text-muted dark-mode">{{ post.author }} | {{ post.created_on }}</p>
+        <p class="card-text  dark-mode ">{{ object.content  | safe }}</p>
+      </div>
+    </div>
+    {% block sidebar %} {% include 'sidebar.html' %} {% endblock sidebar %}
+  </div>
+</div>
+
+{% endblock body %}

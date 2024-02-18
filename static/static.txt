@@ -1,0 +1,977 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Shourya Maker Lab Arduino arduino electronics projects youtube aranyani mark 1">
+    <meta name="author" content="Shourya Maker Lab">
+    <link rel="icon" type="image/x-icon" href="/images/ro.png">
+    <title>Shourya Pandey</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/unicons.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <!-- MAIN STYLE -->
+    <link rel="stylesheet" href="css/tooplate-style.css">
+
+    <!--
+
+Tooplate 2115 Marvel
+
+https://www.tooplate.com/view/2115-marvel
+
+-->
+</head>
+
+<body class="dark-mode">
+
+    <!-- MENU -->
+    <nav class="navbar navbar-expand-sm navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="index.html"><i class='uil uil-user'></i>Shourya Pandey</a>
+
+
+
+
+
+            <a href="https://hackclub.com/"><img
+                    style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;"
+                    src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club" /></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link"><span data-hover="About">About</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#project" class="nav-link"><span data-hover="Projects">Projects</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#resume" class="nav-link"><span data-hover="Resume">Resume</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contact" class="nav-link"><span data-hover="Contact">Contact</span></a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav ml-lg-auto">
+                    <div class="ml-lg-4">
+                        <div class="color-mode d-lg-flex justify-content-center align-items-center">
+                            <i class="color-mode-icon active"></i>
+                            Color mode
+                        </div>
+                    </div>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ABOUT -->
+    <section class="about full-screen d-lg-flex justify-content-center align-items-center" id="about">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-7 col-md-12 col-12 d-flex align-items-center">
+                    <div class="about-text">
+                        <small class="small-text">Welcome to <span class="mobile-block">my website!</span></small>
+                        <h1 class="animated animated-text">
+                            <span class="mr-2">Hey folks, I'm</span>
+                            <div class="animated-info">
+                                <span class="animated-item">Shourya</span>
+                                <span class="animated-item">Maker</span>
+                                <span class="animated-item">Electronics Hobbyist</span>
+                            </div>
+                        </h1>
+
+                        <p>Crafting the future with a soldering iron and code. From Arduino magic to web wizardry,
+                            I'm on a mission to blend technology and creativity seamlessly.</p>
+
+                        <div class="custom-btn-group mt-4">
+                            <a href="https://github.com/Shourya-maker-lab" class="btn mr-lg-2 custom-btn"><i
+                                    class='uil uil--alt'></i>
+                                Github</a>
+                            <a href="https://www.youtube.com/channel/UCTYoOJJtpBQsW-zQQvHu6tQ/"
+                                class="btn custom-btn custom-btn-bg custom-btn-link">Youtube</a>
+
+                            <a href="https://scrapbook.hackclub.com/ShouryaPandey" class="btn mr-lg-2 custom-btn"><i
+                                    class='uil uil--alt'></i>HackClub ScrapBook</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-5 col-md-12 col-12">
+                    <div class="about-image svg">
+                        <img src="images/undraw/undraw_software_engineer_lvl5.svg" class="img-fluid" alt="svg image">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section class="project py-5" id="project">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-11 text-center mx-auto col-12">
+
+                    <div class="col-lg-8 mx-auto">
+                        <h2>Things I Have Made So Far....</h2>
+                    </div>
+
+                    <div class="owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="project-info">
+                                <a href="https://sardarvjpwebart.netlify.app/"><img
+                                        src="images/project/project-image01.png" class="img-fluid"
+                                        alt="project image"></a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="project-info">
+                                <a href="https://drapjgift.netlify.app/"><img src="images/project/project-image02.png"
+                                        class="img-fluid" alt="project image">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="project-info">
+                                <a href="https://joo.design/"><img src="images/project/project-image03.png"
+                                        class="img-fluid" alt="project image">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/project-image04.png" class="img-fluid" alt="project image">
+                            </div>
+                        </div>
+
+
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/attinoback.png" class="img-fluid  width=1015 height=507" alt="project image">
+                            </div>
+                        </div>
+
+
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/attiny 85(1).png" class="img-fluid  width=1015 height=507" alt="project image">
+                            </div>
+                        </div>
+                        
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/attiny85(4).png" class="img-fluid  width=1015 height=507" alt="project image">
+                            </div>
+                        </div>
+
+
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/tank1.png" class="img-fluid  width=1015 height=507" alt="project image">
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FEATURES -->
+    <section class="resume py-5 d-lg-flex justify-content-center align-items-center" id="resume">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-6 col-12">
+                    <h2 class="mb-4">Experiences</h2>
+
+                    <div class="timeline">
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2019</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>TECHNOXIAN</span><small>ROBOWAR</small></h3>
+                                <p>I love making robots for different purpose's . But the biggest challenge for me is to
+                                    make a line
+                                    follower.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2019</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Robocup Junoir</span><small>ROBOMAZE</small></h3>
+                                <p>As i told i love making robots.</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2021</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>HACKTOBER FEST 2021</h3>
+                                <p>One of the worlds biggest hackathon.</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2022</span>
+                            </div>
+                            <div class="timeline-info">
+
+                                <h3><span>HACKTOBER FEST 2022<small></small></h3>
+                                <p>One of the worlds biggest hackathon.This type even more fun.</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2022</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Medusa-js Hackathon 2022<small></small></h3>
+                                <p>Tinkering with open-source alternative of Shopify
+                                    making a starter store-front using Svelte and medusa-js.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2023</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Hackclub Winter ❄️ 2023<small></small></h3>
+                                <p>One of the worlds biggest maker party.Coming together with worlds makers and hackers
+                                    and making fun hardware.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2024</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Hackclub Club Leader<small></small></h3>
+
+                                <p>Currently Club Leader at HackClub.</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-12">
+                    <h2 class="mb-4 mobile-mt-2">Education</h2>
+
+                    <div class="timeline">
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2019</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Pcb Designing</span><small>intermediate</small></h3>
+                                <p>i have taken a Pcb designing course by Altium Designer. THe best Professinal pcb
+                                    designing software
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2020</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Junior MBA</span><small></small></h3>
+                                <p>I have even done Junior MBA by Clever Harvey.</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2021</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Web-Development</span><small>intermidiate</small></h3>
+                                <p>I am self taught web devloper and i love making static websites.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="contact py-5" id="contact">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-5 mr-lg-5 col-12">
+                    <div class="google-map w-100">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224202.70999393085!2d77.22715126616605!3d28.59475615353909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1644460601668!5m2!1sen!2sin"
+                            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+
+                    <div class="contact-info d-flex justify-content-between align-items-center py-4 px-lg-5">
+                        <div class="contact-info-item">
+                            <h3 class="mb-3 text-white">Say hello</h3>
+                            <p class="footer-text mb-0">Shourya Pandey</p>
+                            <p><a href="mailto:shouryamakerlab@gmail.com"> shouryamakerlab@gmail.com</a></p>
+                        </div>
+
+                        <ul class="social-links">
+
+                            <li><a href="https://www.instagram.com/shourya_maker_lab/" class="uil uil-instagram"
+                                    data-toggle="tooltip" data-placement="left" title="Instagram"></a></li>
+                            <li><a href="#" class="uil uil-youtube" data-toggle="tooltip" data-placement="left"
+                                    title="Youtube"></a>
+                                <a href="https://github.com/Shourya-maker-lab"> <svg xmlns="http://www.w3.org/2000/svg"
+                                        aria-hidden="true" role="icon" width="1.5em" height="5em"
+                                        preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                                        <path
+                                            d="M12 2.247a10 10 0 0 0-3.162 19.487c.5.088.687-.212.687-.475c0-.237-.012-1.025-.012-1.862c-2.513.462-3.163-.613-3.363-1.175a3.636 3.636 0 0 0-1.025-1.413c-.35-.187-.85-.65-.013-.662a2.001 2.001 0 0 1 1.538 1.025a2.137 2.137 0 0 0 2.912.825a2.104 2.104 0 0 1 .638-1.338c-2.225-.25-4.55-1.112-4.55-4.937a3.892 3.892 0 0 1 1.025-2.688a3.594 3.594 0 0 1 .1-2.65s.837-.262 2.75 1.025a9.427 9.427 0 0 1 5 0c1.912-1.3 2.75-1.025 2.75-1.025a3.593 3.593 0 0 1 .1 2.65a3.869 3.869 0 0 1 1.025 2.688c0 3.837-2.338 4.687-4.563 4.937a2.368 2.368 0 0 1 .675 1.85c0 1.338-.012 2.413-.012 2.75c0 .263.187.575.687.475A10.005 10.005 0 0 0 12 2.247z"
+                                            fill="currentColor" />
+                                    </svg></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-12">
+                    <div class="contact-form">
+                        <h2 class="mb-4">Interested to work together? Let's talk</h2>
+
+                        <form action="https://formsubmit.co/582dd656ee4333a70129816f6d0c52f2" method="POST">
+                            <div class="row">
+                                <div class="col-lg-6 col-12">
+                                    <input type="text" class="form-control" name="name" placeholder="Your Name"
+                                        id="name">
+                                </div>
+
+                                <div class="col-lg-6 col-12">
+                                    <input type="email" class="form-control" name="email" placeholder="Email"
+                                        id="email">
+                                </div>
+
+                                <div class="col-12">
+                                    <textarea name="message" rows="6" class="form-control" id="message"
+                                        placeholder="Message"></textarea>
+                                </div>
+
+                                <div class="ml-lg-auto col-lg-5 col-12">
+                                    <input type="submit" class="form-control submit-btn" value="Send Button">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer py-5">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-12 col-12">
+                    <p class="copyright-text text-center">Copyright &copy; 2024-2025 Shourya Maker Lab. All rights
+                        reserved</p>
+                    <p class="copyright-text text-center">Designed by Shourya</p>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/Headroom.js"></script>
+    <script src="js/jQuery.headroom.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/custom.js"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Shourya Maker Lab Arduino arduino electronics projects youtube aranyani mark 1">
+    <meta name="author" content="Shourya Maker Lab">
+    <link rel="icon" type="image/x-icon" href="/images/ro.png">
+    <title>Shourya Pandey</title>
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/unicons.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <!-- MAIN STYLE -->
+    <link rel="stylesheet" href="css/tooplate-style.css">
+
+    <!--
+
+Tooplate 2115 Marvel
+
+https://www.tooplate.com/view/2115-marvel
+
+-->
+</head>
+
+<body class="dark-mode">
+
+    <!-- MENU -->
+    <nav class="navbar navbar-expand-sm navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="index.html"><i class='uil uil-user'></i>Shourya Pandey</a>
+
+
+
+
+
+            <a href="https://hackclub.com/"><img
+                    style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;"
+                    src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club" /></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link"><span data-hover="About">About</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#project" class="nav-link"><span data-hover="Projects">Projects</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#resume" class="nav-link"><span data-hover="Resume">Resume</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contact" class="nav-link"><span data-hover="Contact">Contact</span></a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav ml-lg-auto">
+                    <div class="ml-lg-4">
+                        <div class="color-mode d-lg-flex justify-content-center align-items-center">
+                            <i class="color-mode-icon active"></i>
+                            Color mode
+                        </div>
+                    </div>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- ABOUT -->
+    <section class="about full-screen d-lg-flex justify-content-center align-items-center" id="about">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-7 col-md-12 col-12 d-flex align-items-center">
+                    <div class="about-text">
+                        <small class="small-text">Welcome to <span class="mobile-block">my website!</span></small>
+                        <h1 class="animated animated-text">
+                            <span class="mr-2">Hey folks, I'm</span>
+                            <div class="animated-info">
+                                <span class="animated-item">Shourya</span>
+                                <span class="animated-item">Maker</span>
+                                <span class="animated-item">Electronics Hobbyist</span>
+                            </div>
+                        </h1>
+
+                        <p>Crafting the future with a soldering iron and code. From Arduino magic to web wizardry,
+                            I'm on a mission to blend technology and creativity seamlessly.</p>
+
+                        <div class="custom-btn-group mt-4">
+                            <a href="https://github.com/Shourya-maker-lab" class="btn mr-lg-2 custom-btn"><i
+                                    class='uil uil--alt'></i>
+                                Github</a>
+                            <a href="https://www.youtube.com/channel/UCTYoOJJtpBQsW-zQQvHu6tQ/"
+                                class="btn custom-btn custom-btn-bg custom-btn-link">Youtube</a>
+
+                            <a href="https://scrapbook.hackclub.com/ShouryaPandey" class="btn mr-lg-2 custom-btn"><i
+                                    class='uil uil--alt'></i>HackClub ScrapBook</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-5 col-md-12 col-12">
+                    <div class="about-image svg">
+                        <img src="images/undraw/undraw_software_engineer_lvl5.svg" class="img-fluid" alt="svg image">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- PROJECTS -->
+    <section class="project py-5" id="project">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-11 text-center mx-auto col-12">
+
+                    <div class="col-lg-8 mx-auto">
+                        <h2>Things I Have Made So Far....</h2>
+                    </div>
+
+                    <div class="owl-carousel owl-theme">
+                        <div class="item">
+                            <div class="project-info">
+                                <a href="https://sardarvjpwebart.netlify.app/"><img
+                                        src="images/project/project-image01.png" class="img-fluid"
+                                        alt="project image"></a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="project-info">
+                                <a href="https://drapjgift.netlify.app/"><img src="images/project/project-image02.png"
+                                        class="img-fluid" alt="project image">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="project-info">
+                                <a href="https://joo.design/"><img src="images/project/project-image03.png"
+                                        class="img-fluid" alt="project image">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/project-image04.png" class="img-fluid" alt="project image">
+                            </div>
+                        </div>
+
+
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/attinoback.png" class="img-fluid  width=1015 height=507" alt="project image">
+                            </div>
+                        </div>
+
+
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/attiny 85(1).png" class="img-fluid  width=1015 height=507" alt="project image">
+                            </div>
+                        </div>
+                        
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/attiny85(4).png" class="img-fluid  width=1015 height=507" alt="project image">
+                            </div>
+                        </div>
+
+
+                        <div class="item">
+                            <div class="project-info">
+                                <img src="images/project/tank1.png" class="img-fluid  width=1015 height=507" alt="project image">
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FEATURES -->
+    <section class="resume py-5 d-lg-flex justify-content-center align-items-center" id="resume">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-6 col-12">
+                    <h2 class="mb-4">Experiences</h2>
+
+                    <div class="timeline">
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2019</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>TECHNOXIAN</span><small>ROBOWAR</small></h3>
+                                <p>I love making robots for different purpose's . But the biggest challenge for me is to
+                                    make a line
+                                    follower.
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2019</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Robocup Junoir</span><small>ROBOMAZE</small></h3>
+                                <p>As i told i love making robots.</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2021</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>HACKTOBER FEST 2021</h3>
+                                <p>One of the worlds biggest hackathon.</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2022</span>
+                            </div>
+                            <div class="timeline-info">
+
+                                <h3><span>HACKTOBER FEST 2022<small></small></h3>
+                                <p>One of the worlds biggest hackathon.This type even more fun.</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2022</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Medusa-js Hackathon 2022<small></small></h3>
+                                <p>Tinkering with open-source alternative of Shopify
+                                    making a starter store-front using Svelte and medusa-js.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2023</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Hackclub Winter ❄️ 2023<small></small></h3>
+                                <p>One of the worlds biggest maker party.Coming together with worlds makers and hackers
+                                    and making fun hardware.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2024</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Hackclub Club Leader<small></small></h3>
+
+                                <p>Currently Club Leader at HackClub.</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-12">
+                    <h2 class="mb-4 mobile-mt-2">Education</h2>
+
+                    <div class="timeline">
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2019</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Pcb Designing</span><small>intermediate</small></h3>
+                                <p>i have taken a Pcb designing course by Altium Designer. THe best Professinal pcb
+                                    designing software
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2020</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Junior MBA</span><small></small></h3>
+                                <p>I have even done Junior MBA by Clever Harvey.</p>
+                            </div>
+                        </div>
+
+                        <div class="timeline-wrapper">
+                            <div class="timeline-yr">
+                                <span>2021</span>
+                            </div>
+                            <div class="timeline-info">
+                                <h3><span>Web-Development</span><small>intermidiate</small></h3>
+                                <p>I am self taught web devloper and i love making static websites.</p>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="contact py-5" id="contact">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-5 mr-lg-5 col-12">
+                    <div class="google-map w-100">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224202.70999393085!2d77.22715126616605!3d28.59475615353909!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1644460601668!5m2!1sen!2sin"
+                            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+
+                    <div class="contact-info d-flex justify-content-between align-items-center py-4 px-lg-5">
+                        <div class="contact-info-item">
+                            <h3 class="mb-3 text-white">Say hello</h3>
+                            <p class="footer-text mb-0">Shourya Pandey</p>
+                            <p><a href="mailto:shouryamakerlab@gmail.com"> shouryamakerlab@gmail.com</a></p>
+                        </div>
+
+                        <ul class="social-links">
+
+                            <li><a href="https://www.instagram.com/shourya_maker_lab/" class="uil uil-instagram"
+                                    data-toggle="tooltip" data-placement="left" title="Instagram"></a></li>
+                            <li><a href="#" class="uil uil-youtube" data-toggle="tooltip" data-placement="left"
+                                    title="Youtube"></a>
+                                <a href="https://github.com/Shourya-maker-lab"> <svg xmlns="http://www.w3.org/2000/svg"
+                                        aria-hidden="true" role="icon" width="1.5em" height="5em"
+                                        preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                                        <path
+                                            d="M12 2.247a10 10 0 0 0-3.162 19.487c.5.088.687-.212.687-.475c0-.237-.012-1.025-.012-1.862c-2.513.462-3.163-.613-3.363-1.175a3.636 3.636 0 0 0-1.025-1.413c-.35-.187-.85-.65-.013-.662a2.001 2.001 0 0 1 1.538 1.025a2.137 2.137 0 0 0 2.912.825a2.104 2.104 0 0 1 .638-1.338c-2.225-.25-4.55-1.112-4.55-4.937a3.892 3.892 0 0 1 1.025-2.688a3.594 3.594 0 0 1 .1-2.65s.837-.262 2.75 1.025a9.427 9.427 0 0 1 5 0c1.912-1.3 2.75-1.025 2.75-1.025a3.593 3.593 0 0 1 .1 2.65a3.869 3.869 0 0 1 1.025 2.688c0 3.837-2.338 4.687-4.563 4.937a2.368 2.368 0 0 1 .675 1.85c0 1.338-.012 2.413-.012 2.75c0 .263.187.575.687.475A10.005 10.005 0 0 0 12 2.247z"
+                                            fill="currentColor" />
+                                    </svg></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-12">
+                    <div class="contact-form">
+                        <h2 class="mb-4">Interested to work together? Let's talk</h2>
+
+                        <form action="https://formsubmit.co/582dd656ee4333a70129816f6d0c52f2" method="POST">
+                            <div class="row">
+                                <div class="col-lg-6 col-12">
+                                    <input type="text" class="form-control" name="name" placeholder="Your Name"
+                                        id="name">
+                                </div>
+
+                                <div class="col-lg-6 col-12">
+                                    <input type="email" class="form-control" name="email" placeholder="Email"
+                                        id="email">
+                                </div>
+
+                                <div class="col-12">
+                                    <textarea name="message" rows="6" class="form-control" id="message"
+                                        placeholder="Message"></textarea>
+                                </div>
+
+                                <div class="ml-lg-auto col-lg-5 col-12">
+                                    <input type="submit" class="form-control submit-btn" value="Send Button">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer py-5">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-12 col-12">
+                    <p class="copyright-text text-center">Copyright &copy; 2024-2025 Shourya Maker Lab. All rights
+                        reserved</p>
+                    <p class="copyright-text text-center">Designed by Shourya</p>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/Headroom.js"></script>
+    <script src="js/jQuery.headroom.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/custom.js"></script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Shourya Maker Lab Arduino arduino electronics projects youtube aranyani mark 1">
+    <meta name="author" content="Shourya Maker Lab">
+    <link rel="icon" type="image/x-icon" href="/static/images/ro.png">
+    <title>{%block title%}{% endblock %}</title>
+
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/unicons.css">
+    <link rel="stylesheet" href="/static/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/static/css/owl.carousel.min.css">
+
+    <!-- MAIN STYLE -->
+    <link rel="stylesheet" href="/static/css/tooplate-style.css">
+
+    <!--
+
+Tooplate 2115 Marvel
+
+https://www.tooplate.com/view/2115-marvel
+
+-->
+</head>
+
+<body class="dark-mode">
+
+    <!-- MENU -->
+    <nav class="navbar navbar-expand-sm navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="/"><i class='uil uil-user'></i>Shourya Pandey</a>
+
+
+
+
+
+            <a href="https://hackclub.com/"><img
+                    style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;"
+                    src="https://assets.hackclub.com/flag-orpheus-top.svg" alt="Hack Club" /></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a href="#about" class="nav-link"><span data-hover="About">About</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="projects/" class="nav-link"><span data-hover="Projects">Projects</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#resume" class="nav-link"><span data-hover="Resume">Resume</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contact" class="nav-link"><span data-hover="Contact">Contact</span></a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav ml-lg-auto">
+                    <div class="ml-lg-4">
+                        <div class="color-mode d-lg-flex justify-content-center align-items-center">
+                            <i class="color-mode-icon active"></i>
+                            Color mode
+                        </div>
+                    </div>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!--BODY CONTENT-->
+    {% block content %}
+    {% endblock %}
+
+    
+
+
+    <!--footer-->
+
+    <footer class="footer py-5">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-12 col-12">
+                    <p class="copyright-text text-center">Copyright &copy; 2024-2025 Shourya Maker Lab. All rights
+                        reserved</p>
+                    <p class="copyright-text text-center">Designed by Shourya</p>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.iconify.design/2/2.1.2/iconify.min.js"></script>
+    <script src="/static/js/jquery-3.3.1.min.js"></script>
+    <script src="/static/js/popper.min.js"></script>
+    <script src="/static/js/bootstrap.min.js"></script>
+    <script src="/static/js/Headroom.js"></script>
+    <script src="/static/js/jQuery.headroom.js"></script>
+    <script src="/static/js/smoothscroll.js"></script>
+    <script src="/static/js/custom.js"></script>
+
+</body>
+
+</html>
